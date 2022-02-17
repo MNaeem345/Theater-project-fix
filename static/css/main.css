@@ -1,0 +1,15 @@
+h1{
+  background: url('static/images/theater-image-background');
+}
+
+html{
+  margin: auto;
+}
+
+.border{
+  border-width: 100px;
+}
+
+footer{
+  background-color: black;
+}
